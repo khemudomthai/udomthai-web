@@ -3,7 +3,6 @@ import { HolidayModal } from '../components/HolidayModal';
 export function LandingPage() {
   return (
     <div className='min-h-screen w-full overflow-hidden'>
-      <HolidayModal />
       <video autoPlay muted loop poster="./video/poster.jpg" className='object-cover w-full h-screen'>
         <source src="./video/udmt_bg.mp4" type="video/mp4" />
       </video>
