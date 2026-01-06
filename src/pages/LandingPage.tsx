@@ -1,5 +1,3 @@
-import { HolidayModal } from '../components/HolidayModal';
-
 export function LandingPage() {
   return (
     <div className='min-h-screen w-full overflow-hidden'>
